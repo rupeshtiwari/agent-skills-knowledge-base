@@ -8,6 +8,25 @@ Research snapshot: **3 November 2026**. This initial edition contains **32 annot
 
 This is a curated knowledge base, not a claim to contain every publication or video. Full papers, paid books and video transcripts are not redistributed. Review depth and unresolved research gaps are visible in the [source catalogue](catalog/README.md).
 
+## Learning Hub
+
+Choose a resource card to open its collection. Category labels are navigation tags; counts come from the source catalogue.
+
+<div>
+<a href="catalog/collections.md#videos"><img src="assets/learning-cards/videos.svg" alt="Videos: 2 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#books"><img src="assets/learning-cards/books.svg" alt="Books: 1 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#theses"><img src="assets/learning-cards/theses.svg" alt="Theses: 2 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#research-papers"><img src="assets/learning-cards/research-papers.svg" alt="Research Papers: 7 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#slides"><img src="assets/learning-cards/slides.svg" alt="Slides: 0 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#courses"><img src="assets/learning-cards/courses.svg" alt="Courses: 1 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#documentation"><img src="assets/learning-cards/documentation.svg" alt="Documentation: 10 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#engineering-articles"><img src="assets/learning-cards/engineering.svg" alt="Engineering Articles: 4 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#example-repositories"><img src="assets/learning-cards/examples.svg" alt="Example Repositories: 2 catalogued resources" width="390"></a>
+<a href="catalog/collections.md#community-reports"><img src="assets/learning-cards/community.svg" alt="Community Reports: 3 catalogued resources" width="390"></a>
+</div>
+
+[Browse all resources](catalog/collections.md) · [Inspection depth and provenance](catalog/README.md) · [Suggested learning sequence](research/learning-resources.md#suggested-learning-sequence)
+
 ## Start Here
 
 1. [What a skill is](docs/01-foundations.md)
