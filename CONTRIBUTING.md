@@ -1,0 +1,11 @@
+# Contributing
+
+Add a source record with a stable ID, exact title, primary URL, type, checked date, review depth and limitation. Explain which claim it supports. Update both catalogue formats and run the local validator.
+
+Keep vendor behavior, research findings, community observations and recommendations distinct. Cite paper versions. Do not describe a video as watched without reviewing it. Do not infer that an issue is fixed from its closed status alone.
+
+Contribute original summaries and links. Do not upload paid books, full transcripts, private course materials, access tokens or proprietary documents. Check source licenses before including code.
+
+For a proposed practice, add a realistic test case and explain the failure it should prevent. Prefer a small, evidence-backed addition to a large generic checklist. If a source changes, update affected claims and preserve a note explaining the change.
+
+Maintenance cadence is owner-managed: recheck platform details before releases and review stale catalogue entries periodically. No scheduled automation is installed.

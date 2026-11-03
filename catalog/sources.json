@@ -1,0 +1,290 @@
+[
+  {
+    "id": "S01",
+    "title": "Agent Skills specification",
+    "url": "https://agentskills.io/specification",
+    "type": "standard",
+    "review_depth": "page inspected",
+    "notes": "Portable package format; host extensions still require separate checks.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S02",
+    "title": "Build skills: ChatGPT and Codex",
+    "url": "https://learn.chatgpt.com/docs/build-skills",
+    "type": "official documentation",
+    "review_depth": "relevant sections inspected",
+    "notes": "Discovery, explicit invocation, metadata budgets and local directories.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S03",
+    "title": "Skills in OpenAI plugins",
+    "url": "https://developers.openai.com/plugins/concepts/skills",
+    "type": "official documentation",
+    "review_depth": "page inspected",
+    "notes": "Workflow instructions complement MCP tools; not a replacement for tools.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S04",
+    "title": "OpenAI API Skills",
+    "url": "https://developers.openai.com/api/docs/guides/tools-skills",
+    "type": "official documentation",
+    "review_depth": "search excerpt inspected",
+    "notes": "API packaging and execution surfaces; verify full page before implementation.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S05",
+    "title": "Claude skill authoring best practices",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices",
+    "type": "official documentation",
+    "review_depth": "page and excerpts inspected",
+    "notes": "Conciseness, appropriate freedom and progressive disclosure.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S06",
+    "title": "Claude Agent Skills overview",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+    "type": "official documentation",
+    "review_depth": "search excerpt inspected",
+    "notes": "Product surfaces differ; verify availability in the target surface.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S07",
+    "title": "Extend Claude Code with skills",
+    "url": "https://code.claude.com/docs/en/skills",
+    "type": "official documentation",
+    "review_depth": "relevant sections inspected",
+    "notes": "Invocation controls, frontmatter, lifecycle and troubleshooting.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S08",
+    "title": "Kiro Agent Skills",
+    "url": "https://kiro.dev/docs/skills/",
+    "type": "official documentation",
+    "review_depth": "page and excerpts inspected",
+    "notes": "Workspace/global scopes, custom agent resources and troubleshooting.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S09",
+    "title": "Cursor Agent Skills",
+    "url": "https://cursor.com/docs/skills",
+    "type": "official documentation",
+    "review_depth": "page and excerpts inspected",
+    "notes": "Skill directories, explicit use and portability.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S10",
+    "title": "Cursor skills help",
+    "url": "https://cursor.com/help/customization/skills",
+    "type": "official documentation",
+    "review_depth": "search excerpt inspected",
+    "notes": "Local and cloud skill distribution are different.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S11",
+    "title": "Equipping agents for the real world with Agent Skills",
+    "url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
+    "type": "vendor engineering",
+    "review_depth": "page and excerpts inspected",
+    "notes": "Original architectural explanation and development approach.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S12",
+    "title": "Effective context engineering for AI agents",
+    "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
+    "type": "vendor engineering",
+    "review_depth": "page inspected",
+    "notes": "Context is a limited engineering resource.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S13",
+    "title": "Demystifying evals for AI agents",
+    "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
+    "type": "vendor engineering",
+    "review_depth": "page inspected",
+    "notes": "Evaluation methodology; inspect outcomes and traces.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S14",
+    "title": "SkillsBench v4",
+    "url": "https://arxiv.org/abs/2602.12670v4",
+    "type": "research paper",
+    "review_depth": "abstract inspected",
+    "notes": "Paired skill/no-skill evaluation; current abstract differs from older summaries.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S15",
+    "title": "SWE-Skills-Bench v2",
+    "url": "https://arxiv.org/abs/2603.15401v2",
+    "type": "research paper",
+    "review_depth": "abstract inspected",
+    "notes": "Public SWE skill utility varies; most studied skills show no significant effect.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S16",
+    "title": "Agent Skills Can Be Harmful",
+    "url": "https://www.microsoft.com/en-us/research/publication/agent-skills-can-be-harmful-an-empirical-study-of-skill-induced-failures-in-llm-agents/",
+    "type": "research paper",
+    "review_depth": "publisher summary inspected",
+    "notes": "Functional failures and efficiency regressions; over-verification can hurt.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S17",
+    "title": "Lost in the Middle",
+    "url": "https://arxiv.org/abs/2307.03172",
+    "type": "research paper",
+    "review_depth": "abstract inspected",
+    "notes": "Historical long-context evidence; not a measurement of every current model.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S18",
+    "title": "tau-bench",
+    "url": "https://arxiv.org/abs/2406.12045",
+    "type": "research paper",
+    "review_depth": "abstract inspected",
+    "notes": "Repeated-run reliability and end-state evaluation.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S19",
+    "title": "SkillCT",
+    "url": "https://arxiv.org/abs/2610.38147",
+    "type": "research paper",
+    "review_depth": "metadata inspected",
+    "notes": "Recent execution-free skill assessment research; full methods not reviewed.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S20",
+    "title": "Signal or Noise? A Benchmark Study of Agent Skills in Web Development",
+    "url": "https://arxiv.org/abs/2608.23067",
+    "type": "research paper",
+    "review_depth": "discovered; page fetch failed",
+    "notes": "Candidate for full review; no findings adopted from the unavailable paper.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S21",
+    "title": "Towards Reliable Agentic LLMs \u2014 Wenxiao Wang, UMD, 2025",
+    "url": "https://drum.lib.umd.edu/items/cddc6b87-71b5-4519-8e92-0b56e06c1a97",
+    "type": "doctoral thesis",
+    "review_depth": "record and abstract inspected",
+    "notes": "Adjacent reliability research; not a SKILL.md implementation manual.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S22",
+    "title": "Grounding LLM Agents in Knowledge, Context, and Action \u2014 Jiayang Cheng, HKUST",
+    "url": "https://researchportal.hkust.edu.hk/en/studentTheses/grounding-llm-agents-in-knowledge-context-and-action/",
+    "type": "doctoral thesis",
+    "review_depth": "record and search abstract inspected",
+    "notes": "Adjacent grounding and tool orchestration research.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S23",
+    "title": "AI Engineering \u2014 Chip Huyen: author companion repository",
+    "url": "https://github.com/chiphuyen/aie-book",
+    "type": "book",
+    "review_depth": "companion page inspected",
+    "notes": "Foundation-model application engineering; book not read in full for this release.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S24",
+    "title": "Do Not Build Agents, Build Skills Instead \u2014 Barry Zhang and Mahesh Murag",
+    "url": "https://www.youtube.com/watch?v=CEvIs9y1uog",
+    "type": "video",
+    "review_depth": "listing verified; transcript unavailable",
+    "notes": "Primary-speaker talk; no timestamp or watched-video claims.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S25",
+    "title": "Agent Skills: Transform Claude from Assistant to Specialized Agent",
+    "url": "https://claude.com/resources/webinars/agent-skills-transform-claude-from-assistant-to-specialized-agent",
+    "type": "webinar",
+    "review_depth": "landing page inspected; video not watched",
+    "notes": "Marius Buleandra; registration-gated on-demand video.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S26",
+    "title": "Agent Skills with Anthropic \u2014 DeepLearning.AI",
+    "url": "https://www.deeplearning.ai/courses/agent-skills-with-anthropic",
+    "type": "course",
+    "review_depth": "search excerpt inspected; page fetch blocked",
+    "notes": "Structured practical course; lesson contents not independently reviewed.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S27",
+    "title": "Anthropic public skills repository",
+    "url": "https://github.com/anthropics/skills",
+    "type": "example repository",
+    "review_depth": "repository landing page inspected",
+    "notes": "Study examples and per-file licenses before reuse; no code audit performed.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S28",
+    "title": "OpenAI skills catalog",
+    "url": "https://github.com/openai/skills",
+    "type": "example repository",
+    "review_depth": "repository landing page inspected",
+    "notes": "Reference implementations; pin a commit before copying.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S29",
+    "title": "Claude Code issue 21947: personal skill not auto-triggering",
+    "url": "https://github.com/anthropics/claude-code/issues/21947",
+    "type": "community issue",
+    "review_depth": "issue body inspected",
+    "notes": "Reporter observation, not a universal product guarantee or independently reproduced bug.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S30",
+    "title": "Claude Code issue 46952: activation matching report",
+    "url": "https://github.com/anthropics/claude-code/issues/46952",
+    "type": "community issue",
+    "review_depth": "issue body inspected",
+    "notes": "Reporter hypothesis about matching; internal implementation not verified.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S31",
+    "title": "Claude Code issue 54535: skill feedback loop",
+    "url": "https://github.com/anthropics/claude-code/issues/54535",
+    "type": "community issue",
+    "review_depth": "reproduction and workaround inspected",
+    "notes": "Reporter describes recursive command wrapper and content replacement workaround.",
+    "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S32",
+    "title": "Rethinking skills and prompts for GPT-6 Astra",
+    "url": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
+    "type": "vendor engineering",
+    "review_depth": "search excerpt inspected",
+    "notes": "Model-specific guidance to revisit accumulated instructions; not universal benchmark evidence.",
+    "checked_on": "2026-11-03"
+  }
+]
