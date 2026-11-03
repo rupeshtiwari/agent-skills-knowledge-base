@@ -181,7 +181,7 @@
   },
   {
     "id": "S21",
-    "title": "Towards Reliable Agentic LLMs \u2014 Wenxiao Wang, UMD, 2025",
+    "title": "Towards Reliable Agentic LLMs — Wenxiao Wang, UMD, 2025",
     "url": "https://drum.lib.umd.edu/items/cddc6b87-71b5-4519-8e92-0b56e06c1a97",
     "type": "doctoral thesis",
     "review_depth": "record and abstract inspected",
@@ -190,7 +190,7 @@
   },
   {
     "id": "S22",
-    "title": "Grounding LLM Agents in Knowledge, Context, and Action \u2014 Jiayang Cheng, HKUST",
+    "title": "Grounding LLM Agents in Knowledge, Context, and Action — Jiayang Cheng, HKUST",
     "url": "https://researchportal.hkust.edu.hk/en/studentTheses/grounding-llm-agents-in-knowledge-context-and-action/",
     "type": "doctoral thesis",
     "review_depth": "record and search abstract inspected",
@@ -199,7 +199,7 @@
   },
   {
     "id": "S23",
-    "title": "AI Engineering \u2014 Chip Huyen: author companion repository",
+    "title": "AI Engineering — Chip Huyen: author companion repository",
     "url": "https://github.com/chiphuyen/aie-book",
     "type": "book",
     "review_depth": "companion page inspected",
@@ -208,7 +208,7 @@
   },
   {
     "id": "S24",
-    "title": "Do Not Build Agents, Build Skills Instead \u2014 Barry Zhang and Mahesh Murag",
+    "title": "Do Not Build Agents, Build Skills Instead — Barry Zhang and Mahesh Murag",
     "url": "https://www.youtube.com/watch?v=CEvIs9y1uog",
     "type": "video",
     "review_depth": "listing verified; transcript unavailable",
@@ -226,7 +226,7 @@
   },
   {
     "id": "S26",
-    "title": "Agent Skills with Anthropic \u2014 DeepLearning.AI",
+    "title": "Agent Skills with Anthropic — DeepLearning.AI",
     "url": "https://www.deeplearning.ai/courses/agent-skills-with-anthropic",
     "type": "course",
     "review_depth": "search excerpt inspected; page fetch blocked",
@@ -286,5 +286,32 @@
     "review_depth": "search excerpt inspected",
     "notes": "Model-specific guidance to revisit accumulated instructions; not universal benchmark evidence.",
     "checked_on": "2026-11-03"
+  },
+  {
+    "id": "S33",
+    "title": "Stanford CS25: V3 — Retrieval Augmented Language Models — Douwe Kiela",
+    "url": "https://www.youtube.com/watch?v=mE7IDf2SmJg",
+    "type": "video",
+    "review_depth": "search listing and publisher description inspected; video not watched",
+    "notes": "Background on retrieval augmentation; adjacent to skill reference retrieval, not a SKILL.md tutorial.",
+    "checked_on": "2026-11-04"
+  },
+  {
+    "id": "S34",
+    "title": "UC Berkeley LLM Agents MOOC — History and Overview — Shunyu Yao",
+    "url": "https://www.youtube.com/watch?v=RM6ZArd2nVc",
+    "type": "video",
+    "review_depth": "publisher listing and page title inspected; video not watched",
+    "notes": "Background on language agents; use to frame action and reasoning, not current host configuration.",
+    "checked_on": "2026-11-04"
+  },
+  {
+    "id": "S35",
+    "title": "UC Berkeley LLM Agents MOOC — Safe AI Agents and Evidence-based AI Policy — Dawn Song",
+    "url": "https://www.youtube.com/watch?v=QAgR4uQ15rc",
+    "type": "video",
+    "review_depth": "YouTube page title inspected; video not watched",
+    "notes": "Academic safety background; listing review does not establish detailed lecture claims.",
+    "checked_on": "2026-11-04"
   }
 ]

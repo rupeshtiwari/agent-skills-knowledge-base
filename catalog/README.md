@@ -1,6 +1,6 @@
 # Source Catalogue
 
-Checked 3 November 2026. Review depth is explicit: listing an item does not mean its full text or video was reviewed. Only short original annotations are stored; the originals remain with their publishers.
+Initial sources checked 3 November 2026; academic video additions checked 4 November 2026. Individual dates are in sources.json. Review depth is explicit: listing an item does not mean its full text or video was reviewed. Only short original annotations are stored; the originals remain with their publishers.
 
 ## S01: Agent Skills specification
 
@@ -225,3 +225,24 @@ Checked 3 November 2026. Review depth is explicit: listing an item does not mean
 - Type: vendor engineering
 - Review depth: search excerpt inspected
 - Use and limitation: Model-specific guidance to revisit accumulated instructions; not universal benchmark evidence.
+
+## S33: Stanford CS25: V3 — Retrieval Augmented Language Models — Douwe Kiela
+
+- [Original source](https://www.youtube.com/watch?v=mE7IDf2SmJg)
+- Type: video
+- Review depth: search listing and publisher description inspected; video not watched
+- Use and limitation: Background on retrieval augmentation; adjacent to skill reference retrieval, not a SKILL.md tutorial.
+
+## S34: UC Berkeley LLM Agents MOOC — History and Overview — Shunyu Yao
+
+- [Original source](https://www.youtube.com/watch?v=RM6ZArd2nVc)
+- Type: video
+- Review depth: publisher listing and page title inspected; video not watched
+- Use and limitation: Background on language agents; use to frame action and reasoning, not current host configuration.
+
+## S35: UC Berkeley LLM Agents MOOC — Safe AI Agents and Evidence-based AI Policy — Dawn Song
+
+- [Original source](https://www.youtube.com/watch?v=QAgR4uQ15rc)
+- Type: video
+- Review depth: YouTube page title inspected; video not watched
+- Use and limitation: Academic safety background; listing review does not establish detailed lecture claims.

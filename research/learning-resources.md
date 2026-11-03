@@ -4,6 +4,8 @@ This is a curated starting set. Video entries were discovered and landing pages 
 
 ## Watch and Practise
 
+[Open the visual video gallery](../catalog/collections.md#videos) for YouTube thumbnails, direct watch links and three academic lectures from Stanford and Berkeley.
+
 | Resource | Why it belongs | Review/access limitation |
 |---|---|---|
 | [Do Not Build Agents, Build Skills Instead](https://www.youtube.com/watch?v=CEvIs9y1uog), Barry Zhang and Mahesh Murag | Primary-speaker explanation of reusable expertise | Listing verified; transcript unavailable; no timestamps supplied |

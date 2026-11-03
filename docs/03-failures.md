@@ -1,5 +1,7 @@
 # Failure Catalogue
 
+For symptom-by-symptom help, see the [60-question troubleshooting hub](../troubleshooting/README.md) and [evidence ledger](../troubleshooting/evidence.md).
+
 These are diagnostic patterns, not measured prevalence rankings. Community observations are separately labelled in [the report ledger](../research/community-reports.md). Proposed remedies require local validation.
 
 | Symptom | Possible cause | First check | Proposed remedy | Regression case |

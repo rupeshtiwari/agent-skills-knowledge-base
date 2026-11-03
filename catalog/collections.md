@@ -2,9 +2,11 @@
 
 [Home](../README.md#learning-hub) · [Full source catalogue](README.md)
 
-Browse the same 32 sources by format. Counts describe catalogued entries, not full reviews. Each resource retains its original inspection depth and checked date. Slides currently has no catalogued sources.
+Browse the same 35 sources by format. Counts describe catalogued entries, not full reviews. Each resource retains its original inspection depth and checked date. Slides currently has no catalogued sources.
 
 ## Videos
+
+**Click a thumbnail to watch on YouTube.** GitHub Markdown displays linked previews, not an inline YouTube player. Full videos have not been watched for this catalogue.
 
 [Back to homepage cards](../README.md#learning-hub)
 
@@ -12,7 +14,9 @@ Browse the same 32 sources by format. Counts describe catalogued entries, not fu
 
 `video` · Checked 2026-11-03
 
-[Open source](https://www.youtube.com/watch?v=CEvIs9y1uog)
+[![Watch: Do Not Build Agents, Build Skills Instead](https://img.youtube.com/vi/CEvIs9y1uog/hqdefault.jpg)](https://www.youtube.com/watch?v=CEvIs9y1uog)
+
+[▶ Watch on YouTube](https://www.youtube.com/watch?v=CEvIs9y1uog)
 
 Primary-speaker talk; no timestamp or watched-video claims.
 
@@ -27,6 +31,46 @@ Primary-speaker talk; no timestamp or watched-video claims.
 Marius Buleandra; registration-gated on-demand video.
 
 **Review depth:** landing page inspected; video not watched.
+
+### Academic Video Gallery
+
+These lectures provide adjacent foundations. They are not current product-specific skill tutorials. Listing inspection is not a full lecture review.
+
+#### S33: Stanford CS25: V3 — Retrieval Augmented Language Models — Douwe Kiela
+
+`Academic video` · Stanford Online · Checked 4 November 2026
+
+[![Watch: Stanford CS25: V3 — Retrieval Augmented Language Models — Douwe Kiela](https://img.youtube.com/vi/mE7IDf2SmJg/hqdefault.jpg)](https://www.youtube.com/watch?v=mE7IDf2SmJg)
+
+[▶ Watch on YouTube](https://www.youtube.com/watch?v=mE7IDf2SmJg)
+
+Background on retrieval augmentation; adjacent to skill reference retrieval, not a SKILL.md tutorial.
+
+**Review depth:** search listing and publisher description inspected; video not watched.
+
+#### S34: UC Berkeley LLM Agents MOOC — History and Overview — Shunyu Yao
+
+`Academic video` · Berkeley RDI · Checked 4 November 2026
+
+[![Watch: UC Berkeley LLM Agents MOOC — History and Overview — Shunyu Yao](https://img.youtube.com/vi/RM6ZArd2nVc/hqdefault.jpg)](https://www.youtube.com/watch?v=RM6ZArd2nVc)
+
+[▶ Watch on YouTube](https://www.youtube.com/watch?v=RM6ZArd2nVc)
+
+Background on language agents; use to frame action and reasoning, not current host configuration.
+
+**Review depth:** publisher listing and page title inspected; video not watched.
+
+#### S35: UC Berkeley LLM Agents MOOC — Safe AI Agents and Evidence-based AI Policy — Dawn Song
+
+`Academic video` · Berkeley RDI · Checked 4 November 2026
+
+[![Watch: UC Berkeley LLM Agents MOOC — Safe AI Agents and Evidence-based AI Policy — Dawn Song](https://img.youtube.com/vi/QAgR4uQ15rc/hqdefault.jpg)](https://www.youtube.com/watch?v=QAgR4uQ15rc)
+
+[▶ Watch on YouTube](https://www.youtube.com/watch?v=QAgR4uQ15rc)
+
+Academic safety background; listing review does not establish detailed lecture claims.
+
+**Review depth:** YouTube page title inspected; video not watched.
 
 ## Books
 

@@ -4,7 +4,7 @@
 
 A practical, source-backed learning repository for ChatGPT/Codex, Claude, Kiro and Cursor. Built for people who want to develop their own dependable skills and understand why instructions are sometimes missed.
 
-Research snapshot: **3 November 2026**. This initial edition contains **32 annotated sources** across official documentation, research papers, doctoral theses, a book, video/course resources, example repositories and community issue reports.
+Research catalogue: **35 annotated sources**, including three academic video additions on **4 November 2026**, across official documentation, research papers, doctoral theses, a book, video/course resources, example repositories and community issue reports.
 
 This is a curated knowledge base, not a claim to contain every publication or video. Full papers, paid books and video transcripts are not redistributed. Review depth and unresolved research gaps are visible in the [source catalogue](catalog/README.md).
 
@@ -13,7 +13,8 @@ This is a curated knowledge base, not a claim to contain every publication or vi
 Choose a resource card to open its collection. Category labels are navigation tags; counts come from the source catalogue.
 
 <div>
-<a href="catalog/collections.md#videos"><img src="assets/learning-cards/videos.svg" alt="Videos: 2 catalogued resources" width="390"></a>
+<a href="troubleshooting/README.md"><img src="assets/learning-cards/qna.svg" alt="Skill Q&amp;A: 60 troubleshooting questions" width="390"></a>
+<a href="catalog/collections.md#videos"><img src="assets/learning-cards/videos.svg" alt="Videos: 5 catalogued resources" width="390"></a>
 <a href="catalog/collections.md#books"><img src="assets/learning-cards/books.svg" alt="Books: 1 catalogued resources" width="390"></a>
 <a href="catalog/collections.md#theses"><img src="assets/learning-cards/theses.svg" alt="Theses: 2 catalogued resources" width="390"></a>
 <a href="catalog/collections.md#research-papers"><img src="assets/learning-cards/research-papers.svg" alt="Research Papers: 7 catalogued resources" width="390"></a>
@@ -26,6 +27,14 @@ Choose a resource card to open its collection. Category labels are navigation ta
 </div>
 
 [Browse all resources](catalog/collections.md) · [Inspection depth and provenance](catalog/README.md) · [Suggested learning sequence](research/learning-resources.md#suggested-learning-sequence)
+
+## Common Skill Issues and Q&A
+
+**[Open all 60 questions](troubleshooting/README.md)** — why skills do not activate, why instructions are missed, why execution is slow, and how to diagnose packaging, tools, context, quality, permissions and recovery failures. Each answer provides a diagnosis, remedy and verification criterion.
+
+[Community evidence and official platform notes](troubleshooting/evidence.md) distinguish reported symptoms from confirmed documentation and our own engineering recommendations. Reddit, GitHub, Cursor forum and Stack Overflow for Agents findings are labeled by inspection depth.
+
+[Watch the video gallery](catalog/collections.md#videos) includes clickable YouTube previews and Stanford/Berkeley academic lectures.
 
 ## Start Here
 
@@ -86,7 +95,7 @@ This checks repository structure, source metadata, local links and evaluation-ca
 python3 -m unittest discover -s tests -v
 ```
 
-The deeper chapters add original engineering methods; the source count remains 32. No extra research is implied by the expansion. The catalogue retains its original inspection-depth labels.
+The main catalogue contains 35 sources. The troubleshooting section adds a separate evidence ledger and 60 original diagnostic Q&As; these are not 60 independently verified fixes. Inspection-depth labels remain explicit.
 
 ## Publication Status
 

@@ -15,3 +15,7 @@ For the recursive-wrapper report, prefer correcting source configuration and tes
 Include host and model versions, skill commit, installation scope, minimal input, expected result, observed trace, tool availability and a sanitized reproduction. State whether the issue occurs with explicit invocation, implicit invocation or both. Remove secrets and private content.
 
 Distinguish a vendor defect from an invalid package, missing dependency, contradictory instructions or a grading mistake. Reproduce on the intended version before claiming a workaround works today.
+
+## Expanded Troubleshooting Research
+
+The [4 November evidence ledger](../troubleshooting/evidence.md) adds Reddit, Cursor forum and Stack Overflow for Agents reports, including access limitations and withdrawn/unverified diagnoses. Use the [60-question Q&A](../troubleshooting/README.md) for practical diagnostic procedures.

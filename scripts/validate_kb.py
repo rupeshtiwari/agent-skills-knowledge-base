@@ -30,7 +30,7 @@ def main():
         text = doc.read_text()
         if text.count('```') % 2:
             errors.append(f'Unclosed code fence: {doc.relative_to(ROOT)}')
-        for dest in re.findall(r'\[[^\]]*\]\(([^)]+)\)', text):
+        for dest in re.findall(r'\[[^\]]*\]\(([^)]+)\)', text) + re.findall(r'(?:href|src)="([^"]+)"', text):
             if '://' in dest or dest.startswith('mailto:'):
                 continue
             path, _, anchor = dest.partition('#')
@@ -50,6 +50,15 @@ def main():
     for case in cases:
         if not all(case.get(f) for f in ('id', 'category', 'input_scenario', 'expected_behavior', 'status')):
             errors.append(f'Incomplete case: {case}')
+    questions = json.loads((ROOT / 'troubleshooting/qna.json').read_text())
+    if len({q['id'] for q in questions}) != len(questions):
+        errors.append('Duplicate Q&A IDs')
+    for q in questions:
+        page = ROOT / 'troubleshooting' / (q['category'] + '.md')
+        body = page.read_text() if page.exists() else ''
+        for field in ('question', 'answer', 'diagnose', 'remedy', 'verify'):
+            if not q.get(field) or q[field] not in body:
+                errors.append(f"Q&A JSON/page mismatch: {q['id']} {field}")
     if errors:
         print('\n'.join(errors))
         return 1
