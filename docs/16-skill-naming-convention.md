@@ -10,7 +10,7 @@ Use a consistent family label followed by a clear responsibility. Capitalize sig
 
 | Avoid | Use |
 | --- | --- |
-| Pluralsight course orchestrator | Pluralsight Course Orchestrator |
+| Pluralsight course builder | Pluralsight Course Builder |
 | fsm ps create outline | Pluralsight Outline Builder |
 | Pluralsight Slide Deck builder | Pluralsight Slide Builder |
 | Apply Rupesh Teaching Style | Pluralsight Narration Builder |
@@ -30,7 +30,7 @@ Preserve these existing identifiers for compatibility:
 
 | Visible title | Exact machine identifier | Responsibility |
 | --- | --- | --- |
-| Pluralsight Course Orchestrator | `ps-course-orchestrator` | Coordinate stages, handoffs, evidence and acceptance |
+| Pluralsight Course Builder | `ps-course-orchestrator` | Coordinate stages, handoffs, evidence and acceptance |
 | Pluralsight Outline Builder | `ps-create-outline` | Research, outline authoring and outline validation |
 | Pluralsight Repository Builder | `ps-course-repo-builder` | Learner demos, implementation, repositories and production Studios |
 | Pluralsight Slide Builder | `ps-build-slide-deck` | Slide content, layouts, diagrams and visual validation |
