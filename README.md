@@ -28,6 +28,31 @@ Choose a resource card to open its collection. Category labels are navigation ta
 
 [Browse all resources](catalog/collections.md) · [Inspection depth and provenance](catalog/README.md) · [Suggested learning sequence](research/learning-resources.md#suggested-learning-sequence)
 
+## Build Your Own Skill
+
+**[Skill-building guide: simple and complex use cases](docs/15-skill-building-guide.md)** — define the contract, write `SKILL.md`, choose resources, test failures and release a dependable workflow. Includes a task-acknowledgment example and a course-production review example.
+
+[Skill naming convention](docs/16-skill-naming-convention.md) — consistent Title Case titles, stable command identifiers and child-skill routing checks.
+
+## Browse Locally as a Website
+
+Requires Python 3.10+ and the pinned web dependency. One-time setup:
+
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -r requirements-web.txt
+```
+
+Start the local website:
+
+```bash
+./server
+```
+
+The launcher uses `.venv/bin/python` when available, otherwise `python3`. Open **http://127.0.0.1:8000/**. Use `./server --port 8001` for another port (with the same Python environment). Restart after Markdown edits to rebuild.
+
+Build deployable static HTML with `.venv/bin/python scripts/build_site.py`; publish `_site/` to a static host. Relative links work at the domain root or a repository subpath. See [deployment instructions](PUBLISHING.md).
+
 ## Common Skill Issues and Q&A
 
 **[Open all 60 questions](troubleshooting/README.md)** — why skills do not activate, why instructions are missed, why execution is slow, and how to diagnose packaging, tools, context, quality, permissions and recovery failures. Each answer provides a diagnosis, remedy and verification criterion.
