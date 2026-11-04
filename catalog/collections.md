@@ -1,6 +1,6 @@
 # Resource Collections
 
-[Home](../README.md#learning-hub) · [Full source catalogue](README.md)
+[Home](../#learning-hub) · [Full source catalogue](README.md)
 
 Browse the same 35 sources by format. Counts describe catalogued entries, not full reviews. Each resource retains its original inspection depth and checked date. Slides currently has no catalogued sources.
 
@@ -8,7 +8,7 @@ Browse the same 35 sources by format. Counts describe catalogued entries, not fu
 
 **Click a thumbnail to watch on YouTube.** GitHub Markdown displays linked previews, not an inline YouTube player. Full videos have not been watched for this catalogue.
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S24: Do Not Build Agents, Build Skills Instead — Barry Zhang and Mahesh Murag
 
@@ -74,7 +74,7 @@ Academic safety background; listing review does not establish detailed lecture c
 
 ## Books
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S23: AI Engineering — Chip Huyen: author companion repository
 
@@ -88,7 +88,7 @@ Foundation-model application engineering; book not read in full for this release
 
 ## Theses
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S21: Towards Reliable Agentic LLMs — Wenxiao Wang, UMD, 2025
 
@@ -112,7 +112,7 @@ Adjacent grounding and tool orchestration research.
 
 ## Research Papers
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S14: SkillsBench v4
 
@@ -186,7 +186,7 @@ Candidate for full review; no findings adopted from the unavailable paper.
 
 ## Slides
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 No slide decks are catalogued in this edition. This category is reserved for presentation sources with a verified original link, clear attribution and review-depth notes. The video entries do not imply that their slide decks are available.
 
@@ -194,7 +194,7 @@ To propose a deck, use the [source contribution guide](../CONTRIBUTING.md).
 
 ## Courses
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S26: Agent Skills with Anthropic — DeepLearning.AI
 
@@ -208,7 +208,7 @@ Structured practical course; lesson contents not independently reviewed.
 
 ## Documentation
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S01: Agent Skills specification
 
@@ -312,7 +312,7 @@ Local and cloud skill distribution are different.
 
 ## Engineering Articles
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S11: Equipping agents for the real world with Agent Skills
 
@@ -356,7 +356,7 @@ Model-specific guidance to revisit accumulated instructions; not universal bench
 
 ## Example Repositories
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S27: Anthropic public skills repository
 
@@ -380,7 +380,7 @@ Reference implementations; pin a commit before copying.
 
 ## Community Reports
 
-[Back to homepage cards](../README.md#learning-hub)
+[Back to homepage cards](../#learning-hub)
 
 ### S29: Claude Code issue 21947: personal skill not auto-triggering
 
