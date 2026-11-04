@@ -1,6 +1,6 @@
 # Skill Troubleshooting Q&A
 
-[Home](../README.md#learning-hub) · [Evidence and platform notes](evidence.md) · [Machine-readable Q&A](qna.json)
+[Home](../#learning-hub) · [Evidence and platform notes](evidence.md) · [Machine-readable Q&A](qna.json)
 
 **60 questions across 10 categories. Updated 4 November 2026.** These are diagnostic patterns and original engineering recommendations, not a measured ranking of the most frequent bugs. No live-host reproductions were run for this edition. Community posts establish reported symptoms, not universal causes or verified fixes.
 
