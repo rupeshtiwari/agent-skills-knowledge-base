@@ -32,6 +32,8 @@ Choose a resource card to open its collection. Category labels are navigation ta
 
 **[Skill-building guide: simple and complex use cases](docs/15-skill-building-guide.md)** — define the contract, write `SKILL.md`, choose resources, test failures and release a dependable workflow. Includes a task-acknowledgment example and a course-production review example.
 
+[Skill naming convention](docs/16-skill-naming-convention.md) — consistent Title Case titles, stable command identifiers and child-skill routing checks.
+
 ## Browse Locally as a Website
 
 Requires Python 3.10+ and the pinned web dependency. One-time setup:

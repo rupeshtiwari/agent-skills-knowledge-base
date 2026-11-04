@@ -34,6 +34,8 @@ Use the [design worksheet](../templates/skill-design-worksheet.md) for a larger 
 
 ## Choose the Package Structure
 
+Apply the [skill naming convention](16-skill-naming-convention.md): Title Case for visible titles, lowercase hyphenated machine identifiers, and explicit migration checks when identifiers change.
+
 The portable minimum is a directory containing `SKILL.md`, with YAML frontmatter followed by Markdown instructions. Use lowercase letters, digits and single hyphens for a portable name; keep it within 64 characters and match the authored folder name. The description must state what the skill does and when to use it; the specification caps it at 1,024 characters. Host-managed installations may rename or store packages differently.
 
 A small skill may need only `SKILL.md`. Add resources when they earn their place:
